@@ -26,10 +26,6 @@ public class LogIn {
             } else {
                 System.out.println("Try again.");
             }
-
-
         }
-
-
     }
 }
